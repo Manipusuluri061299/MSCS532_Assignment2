@@ -1,4 +1,4 @@
-# MSCS-532 Assignment 2 - implementation pending
+# MSCS-532 Assignment 2 
 
 def quick_sort(values):
     """Return a new list sorted using randomized-style

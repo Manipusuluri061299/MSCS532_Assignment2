@@ -1,4 +1,4 @@
-# MSCS-532 Assignment 2 - implementation pending
+# MSCS-532 Assignment 2
 
 def merge_sort(values):
     """Return a new list sorted in ascending order."""
